@@ -4,4 +4,5 @@ export type RootStackParamList = {
   Demo: undefined;
   Pressable: undefined;
   Lap3b1: undefined;
+  Lap2: undefined;
 };
