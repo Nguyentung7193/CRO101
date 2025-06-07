@@ -9,4 +9,6 @@ export type RootStackParamList = {
   Lap4b2: undefined;
   Lap1: undefined;
   Lap4b3: undefined;
+  ScreenHome: undefined;
+  Lap8: undefined;
 };
