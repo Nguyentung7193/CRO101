@@ -9,12 +9,14 @@ import lap4 from '../views/lap/lap4/lap4';
 import lap4b2 from '../views/lap/lap4/lap4b2';
 import lap1 from '../views/lap/lap1/lap1';
 import lap4b3 from '../views/lap/lap4/lap4b3';
+import ScreenHome from '../views/demo/demo8/ScreenHome';
+import Lap8 from '../views/lap/lap8/Lap8';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
 const RootNavigator = () => {
   return (
-    <Stack.Navigator initialRouteName="Lap1">
+    <Stack.Navigator initialRouteName="Lap8" >
       <Stack.Screen name="Home" component={HomeScreen} />
       <Stack.Screen name="Detail" component={DetailScreen} />
       <Stack.Screen name="Lap3b1" component={lap3b1} />
@@ -23,6 +25,8 @@ const RootNavigator = () => {
       <Stack.Screen name="Lap4b2" component={lap4b2}/>
       <Stack.Screen name="Lap1" component={lap1} />
       <Stack.Screen name="Lap4b3" component={lap4b3} />
+      <Stack.Screen name="ScreenHome" component={ScreenHome} />
+      <Stack.Screen name="Lap8" component={Lap8} />
     </Stack.Navigator>
   );
 };

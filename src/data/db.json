@@ -1,0 +1,43 @@
+{
+  "product": [
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 488
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "description": "Description for Product 3",
+      "price": 19.99
+    },
+    {
+      "id": "e202",
+      "name": "Test",
+      "price": 1000
+    }
+  ],
+  "monhoc": [
+    {
+      "id": "2",
+      "maMH": "MH002",
+      "lop": "Marketing",
+      "name": "Mon hoc 2",
+      "khoa": "Khoa 2"
+    },
+    {
+      "id": "3",
+      "maMH": "MH003",
+      "lop": "Lớp 3",
+      "name": "Mon học 3",
+      "khoa": "Khoa 3"
+    },
+    {
+      "id": "7fa0",
+      "maMH": "",
+      "lop": "",
+      "name": "",
+      "khoa": ""
+    }
+  ]
+}
