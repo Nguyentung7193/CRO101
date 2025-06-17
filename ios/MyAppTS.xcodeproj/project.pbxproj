@@ -7,11 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0C80B921A6F3F58F76C31292 /* libPods-MyAppTS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-MyAppTS.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		2675CDCD0F1D48F9B899096E /* Savate-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 46B172C19C704DE299D0BA92 /* Savate-Black.ttf */; };
+		6F057B8070CA46A1A76AD3D5 /* EduVICWANTHandPre-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 42D59871299243EDBD9490EE /* EduVICWANTHandPre-Medium.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		8BFA0F8E662A533F06A2CD76 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		A638D63FC6244CD69DC27434 /* EduVICWANTHandPre-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B6EA79FA9F254D5FBE2BFC47 /* EduVICWANTHandPre-VariableFont_wght.ttf */; };
+		AEFD8F8AC9B74376B71276A7 /* EduVICWANTHandPre-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1EA8CA4B014149DDB7C31C48 /* EduVICWANTHandPre-Regular.ttf */; };
+		B2629C51033940BF80F70C8D /* Savate-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 210287D1761744C29175DAEE /* Savate-Bold.ttf */; };
+		C908FBB1E7CF49FDB67248D4 /* EduVICWANTHandPre-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AF164981920841A092E7ADE7 /* EduVICWANTHandPre-SemiBold.ttf */; };
+		DECD4A99DD6FCEF4B0110858 /* libPods-MyAppTS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 791AEA4B69BC0E179C32B096 /* libPods-MyAppTS.a */; };
+		FCA47D300D954B6C931FEFC9 /* EduVICWANTHandPre-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4C322386482E43B0BFD4E87B /* EduVICWANTHandPre-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,11 +26,18 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MyAppTS/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MyAppTS/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = MyAppTS/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		3B4392A12AC88292D35C810B /* Pods-MyAppTS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyAppTS.debug.xcconfig"; path = "Target Support Files/Pods-MyAppTS/Pods-MyAppTS.debug.xcconfig"; sourceTree = "<group>"; };
-		5709B34CF0A7D63546082F79 /* Pods-MyAppTS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyAppTS.release.xcconfig"; path = "Target Support Files/Pods-MyAppTS/Pods-MyAppTS.release.xcconfig"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-MyAppTS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MyAppTS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1EA8CA4B014149DDB7C31C48 /* EduVICWANTHandPre-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "EduVICWANTHandPre-Regular.ttf"; path = "../src/assets/fonts/EduVICWANTHandPre-Regular.ttf"; sourceTree = "<group>"; };
+		210287D1761744C29175DAEE /* Savate-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Savate-Bold.ttf"; path = "../src/assets/fonts/Savate-Bold.ttf"; sourceTree = "<group>"; };
+		42D59871299243EDBD9490EE /* EduVICWANTHandPre-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "EduVICWANTHandPre-Medium.ttf"; path = "../src/assets/fonts/EduVICWANTHandPre-Medium.ttf"; sourceTree = "<group>"; };
+		46B172C19C704DE299D0BA92 /* Savate-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Savate-Black.ttf"; path = "../src/assets/fonts/Savate-Black.ttf"; sourceTree = "<group>"; };
+		4C322386482E43B0BFD4E87B /* EduVICWANTHandPre-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "EduVICWANTHandPre-Bold.ttf"; path = "../src/assets/fonts/EduVICWANTHandPre-Bold.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = MyAppTS/AppDelegate.swift; sourceTree = "<group>"; };
+		791AEA4B69BC0E179C32B096 /* libPods-MyAppTS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MyAppTS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MyAppTS/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AF164981920841A092E7ADE7 /* EduVICWANTHandPre-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "EduVICWANTHandPre-SemiBold.ttf"; path = "../src/assets/fonts/EduVICWANTHandPre-SemiBold.ttf"; sourceTree = "<group>"; };
+		B6EA79FA9F254D5FBE2BFC47 /* EduVICWANTHandPre-VariableFont_wght.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "EduVICWANTHandPre-VariableFont_wght.ttf"; path = "../src/assets/fonts/EduVICWANTHandPre-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		B7E13906E6CBE3BC479ECC14 /* Pods-MyAppTS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyAppTS.release.xcconfig"; path = "Target Support Files/Pods-MyAppTS/Pods-MyAppTS.release.xcconfig"; sourceTree = "<group>"; };
+		E70602A39C9E52292F269732 /* Pods-MyAppTS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyAppTS.debug.xcconfig"; path = "Target Support Files/Pods-MyAppTS/Pods-MyAppTS.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -32,7 +46,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-MyAppTS.a in Frameworks */,
+				DECD4A99DD6FCEF4B0110858 /* libPods-MyAppTS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -55,7 +69,7 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-MyAppTS.a */,
+				791AEA4B69BC0E179C32B096 /* libPods-MyAppTS.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -75,6 +89,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				A23108DAB40F443BBBDF2B89 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -89,11 +104,26 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		A23108DAB40F443BBBDF2B89 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4C322386482E43B0BFD4E87B /* EduVICWANTHandPre-Bold.ttf */,
+				42D59871299243EDBD9490EE /* EduVICWANTHandPre-Medium.ttf */,
+				1EA8CA4B014149DDB7C31C48 /* EduVICWANTHandPre-Regular.ttf */,
+				AF164981920841A092E7ADE7 /* EduVICWANTHandPre-SemiBold.ttf */,
+				B6EA79FA9F254D5FBE2BFC47 /* EduVICWANTHandPre-VariableFont_wght.ttf */,
+				46B172C19C704DE299D0BA92 /* Savate-Black.ttf */,
+				210287D1761744C29175DAEE /* Savate-Bold.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B4392A12AC88292D35C810B /* Pods-MyAppTS.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-MyAppTS.release.xcconfig */,
+				E70602A39C9E52292F269732 /* Pods-MyAppTS.debug.xcconfig */,
+				B7E13906E6CBE3BC479ECC14 /* Pods-MyAppTS.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -105,13 +135,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MyAppTS" */;
 			buildPhases = (
-				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
+				E5B00EFE9F973DCCBF01034D /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
-				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
+				4DB49BC644A79244B152A646 /* [CP] Embed Pods Frameworks */,
+				5BEE2C40B013212CF9D49778 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -161,6 +191,13 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				8BFA0F8E662A533F06A2CD76 /* PrivacyInfo.xcprivacy in Resources */,
+				FCA47D300D954B6C931FEFC9 /* EduVICWANTHandPre-Bold.ttf in Resources */,
+				6F057B8070CA46A1A76AD3D5 /* EduVICWANTHandPre-Medium.ttf in Resources */,
+				AEFD8F8AC9B74376B71276A7 /* EduVICWANTHandPre-Regular.ttf in Resources */,
+				C908FBB1E7CF49FDB67248D4 /* EduVICWANTHandPre-SemiBold.ttf in Resources */,
+				A638D63FC6244CD69DC27434 /* EduVICWANTHandPre-VariableFont_wght.ttf in Resources */,
+				2675CDCD0F1D48F9B899096E /* Savate-Black.ttf in Resources */,
+				B2629C51033940BF80F70C8D /* Savate-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -183,7 +220,7 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"$REACT_NATIVE_PATH/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"$REACT_NATIVE_PATH/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
+		4DB49BC644A79244B152A646 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -200,7 +237,24 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MyAppTS/Pods-MyAppTS-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */ = {
+		5BEE2C40B013212CF9D49778 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MyAppTS/Pods-MyAppTS-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MyAppTS/Pods-MyAppTS-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MyAppTS/Pods-MyAppTS-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E5B00EFE9F973DCCBF01034D /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -222,23 +276,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyAppTS/Pods-MyAppTS-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyAppTS/Pods-MyAppTS-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MyAppTS/Pods-MyAppTS-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -255,7 +292,7 @@
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-MyAppTS.debug.xcconfig */;
+			baseConfigurationReference = E70602A39C9E52292F269732 /* Pods-MyAppTS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -283,7 +320,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-MyAppTS.release.xcconfig */;
+			baseConfigurationReference = B7E13906E6CBE3BC479ECC14 /* Pods-MyAppTS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;

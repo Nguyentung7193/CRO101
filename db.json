@@ -1,0 +1,31 @@
+{
+  "shoe": [
+    {
+      "id": "1",
+      "ten": "giay 1",
+      "hang": "hang 2",
+      "size": 40,
+      "gia": 1000,
+      "trangthai": "con hang",
+      "anh": "https://toquoc.mediacdn.vn/280518851207290880/2021/9/3/base64-1630595438805599368242-1630639676186-1630639676357733744119.png"
+    },
+    {
+      "id": "2",
+      "ten": "giay 2 update",
+      "hang": "hang 2",
+      "size": 40,
+      "gia": 2000,
+      "trangthai": "het hang",
+      "anh": "https://toquoc.mediacdn.vn/280518851207290880/2021/9/3/base64-1630595438805599368242-1630639676186-1630639676357733744119.png"
+    },
+    {
+      "id": "fcab",
+      "ten": "Shoe1",
+      "hang": "Brand1",
+      "size": 40,
+      "gia": 10000,
+      "anh": "https://thanhnien.mediacdn.vn/uploaded/nthanhluan/2021_09_04/picture2_UDAN.png?width=500",
+      "trangthai": "con hang"
+    }
+  ]
+}
