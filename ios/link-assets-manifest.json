@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/EduVICWANTHandPre-Bold.ttf",
+      "sha1": "9d4ad7c986b0f6405245e5e1c4d676de6bbdb8d5"
+    },
+    {
+      "path": "src/assets/fonts/EduVICWANTHandPre-Medium.ttf",
+      "sha1": "d7c79951a51630311a247c285f105111c81a4a8a"
+    },
+    {
+      "path": "src/assets/fonts/EduVICWANTHandPre-Regular.ttf",
+      "sha1": "942d14e74677d7eb69c149abd41885b022190a2c"
+    },
+    {
+      "path": "src/assets/fonts/EduVICWANTHandPre-SemiBold.ttf",
+      "sha1": "cb1f30c78759b441b67508a9e7c319f26d09e103"
+    },
+    {
+      "path": "src/assets/fonts/EduVICWANTHandPre-VariableFont_wght.ttf",
+      "sha1": "9042febd1d5985432c7f1978f8aeb8c8da4760f3"
+    },
+    {
+      "path": "src/assets/fonts/Savate-Black.ttf",
+      "sha1": "98eee035c580f23f9011c8c4cd4364e6a58e4dff"
+    },
+    {
+      "path": "src/assets/fonts/Savate-Bold.ttf",
+      "sha1": "6b8b7f806b5e02f2752ac29aa0f46874b031ca4b"
+    }
+  ]
+}
